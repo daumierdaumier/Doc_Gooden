@@ -1,2 +1,2 @@
 # Doc_Gooden
-Documents not pitchers
+This is a site for helping me remember contract preferences
